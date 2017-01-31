@@ -21,5 +21,6 @@ get: function() {
         return __stack[1].getFunctionName();
     }
 });
+exports.module = {};
 
 // console.log(__line);
