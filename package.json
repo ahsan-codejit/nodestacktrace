@@ -21,12 +21,7 @@
     "nodejs"
   ],
   "author": "Md. Ahsan Habib <ahhasan.1325@gmail.com> (http://blog.codejit.com/)",
-  "licenses": "[
-  {
-    "type": "MIT",
-    "url": "https://github.com/ahsan-codejit/nodestacktrace/blob/master/LICENSE-MIT"
-  }
-],
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/ahsan-codejit/nodestacktrace/issues"
   },
