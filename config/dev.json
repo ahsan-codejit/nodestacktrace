@@ -1,0 +1,4 @@
+{
+    "DBURL": "mongodb://localhost/notesbucket",
+    "PORT": 8080
+}
